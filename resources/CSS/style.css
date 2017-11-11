@@ -2,7 +2,15 @@ body {
 	background: black;
 }
 
-.main-header {
+.header {
 	color: white;
 	text-align: center;
+}
+
+.sub-heading {
+	color: gray;
+}
+
+.donwload-link {
+	color: #78F1C8;
 }
